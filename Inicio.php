@@ -6,3 +6,5 @@
  * Time: 10:59
  */
 echo "Bem Vindo";
+echo "Isto é um teste";
+
